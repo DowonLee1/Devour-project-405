@@ -15,6 +15,9 @@
 		5294593D25E6F6AC002ADEC5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5294593B25E6F6AC002ADEC5 /* LaunchScreen.storyboard */; };
 		5294594825E6F6AC002ADEC5 /* Devour_project_405Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5294594725E6F6AC002ADEC5 /* Devour_project_405Tests.swift */; };
 		5294595325E6F6AC002ADEC5 /* Devour_project_405UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5294595225E6F6AC002ADEC5 /* Devour_project_405UITests.swift */; };
+		5294596425E6F709002ADEC5 /* CircleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5294596325E6F709002ADEC5 /* CircleCollectionViewCell.swift */; };
+		5294596C25E6FDD5002ADEC5 /* MainTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5294596B25E6FDD5002ADEC5 /* MainTableViewCell.swift */; };
+		5294597125E709B0002ADEC5 /* SwipeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5294597025E709B0002ADEC5 /* SwipeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		5294594E25E6F6AC002ADEC5 /* Devour project 405UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Devour project 405UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5294595225E6F6AC002ADEC5 /* Devour_project_405UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Devour_project_405UITests.swift; sourceTree = "<group>"; };
 		5294595425E6F6AC002ADEC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5294596325E6F709002ADEC5 /* CircleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleCollectionViewCell.swift; sourceTree = "<group>"; };
+		5294596B25E6FDD5002ADEC5 /* MainTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTableViewCell.swift; sourceTree = "<group>"; };
+		5294597025E709B0002ADEC5 /* SwipeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +108,9 @@
 				5294593025E6F6AA002ADEC5 /* AppDelegate.swift */,
 				5294593225E6F6AA002ADEC5 /* SceneDelegate.swift */,
 				5294593425E6F6AA002ADEC5 /* ViewController.swift */,
+				5294596325E6F709002ADEC5 /* CircleCollectionViewCell.swift */,
+				5294596B25E6FDD5002ADEC5 /* MainTableViewCell.swift */,
+				5294597025E709B0002ADEC5 /* SwipeViewController.swift */,
 				5294593625E6F6AA002ADEC5 /* Main.storyboard */,
 				5294593925E6F6AC002ADEC5 /* Assets.xcassets */,
 				5294593B25E6F6AC002ADEC5 /* LaunchScreen.storyboard */,
@@ -260,7 +269,10 @@
 			files = (
 				5294593525E6F6AA002ADEC5 /* ViewController.swift in Sources */,
 				5294593125E6F6AA002ADEC5 /* AppDelegate.swift in Sources */,
+				5294596425E6F709002ADEC5 /* CircleCollectionViewCell.swift in Sources */,
 				5294593325E6F6AA002ADEC5 /* SceneDelegate.swift in Sources */,
+				5294596C25E6FDD5002ADEC5 /* MainTableViewCell.swift in Sources */,
+				5294597125E709B0002ADEC5 /* SwipeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
